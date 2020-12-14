@@ -1,5 +1,5 @@
 function hello() {
-    return "Hello World!"
+    return "Hello World"
 }
     if(require.main === module){
         console.log(hello())
